@@ -1,0 +1,27 @@
+{
+  "name": "asm-analytics-dashboard",
+  "version": "1.0.0",
+  "description": "Analytics Dashboard with D3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmhendrix1992/asm-analytics-dashboard.git"
+  },
+  "keywords": [
+    "ASM",
+    "Analytics",
+    "Dashboard"
+  ],
+  "author": "A Sudhamsh Maddala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmhendrix1992/asm-analytics-dashboard/issues"
+  },
+  "homepage": "https://github.com/asmhendrix1992/asm-analytics-dashboard#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
